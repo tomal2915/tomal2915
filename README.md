@@ -56,16 +56,11 @@ Dedicated and motivated frontend developer with a strong foundation in React.js,
 ## Projects
 Include a section where you highlight some of your significant projects. Mention the project name, a brief description, your role, and technologies used.
 
-### [Project Name]
-- **Description:** [Briefly describe the project, its purpose, and features.]
-- **Role:** [Specify your role on the project, e.g., Lead Developer, Sole Developer, etc.]
-- **Technologies:** [List the technologies and tools used in the project.]
-
-### [Project Name]
-- **Description:** [Briefly describe the project, its purpose, and features.]
-- **Role:** [Specify your role on the project, e.g., Lead Developer, Sole Developer, etc.]
-- **Technologies:** [List the technologies and tools used in the project.]
-
+#### [Project Name]
+- **Description:** 
+- **Role:** 
+- **Technologies:**
+  
 ## Certifications
 - 
 
