@@ -54,7 +54,6 @@ Dedicated and motivated frontend developer with a strong foundation in React.js,
 - **Agile/Scrum Methodologies**
 
 ## Projects
-Include a section where you highlight some of your significant projects. Mention the project name, a brief description, your role, and the technologies used.
 
 #### [Project Name]
 - **Description:** 
