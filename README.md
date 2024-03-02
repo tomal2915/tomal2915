@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tomal</h1>
 <h3 align="center">A frontend developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tomal2915?tab=repositories](https://github.com/tomal2915?tab=repositories)
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **React, Redux, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **tomal2915@gamil.com**
 
-<p align="left">Connect with me:</p>
+<p align="left">I am highly motivated to expand my skill set and dedicated to professional growth. With a passion for learning new
+technologies, I am eager to contribute my expertise to your team and help realize your digital vision. Committed to
+excellence, I am excited to embark on an apprenticeship journey where I can leverage my enthusiasm and drive to make
+meaningful contributions and continue my professional development.</p>
 <p align="left">
 </p>
 
