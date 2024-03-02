@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomal</h1>
-<h3 align="center">A frontend developer from Bangladesh</h3>
+<h3 align="center">A full stack web developer from Dhaka, Bangladesh</h3>
 
 - 💬 Ask me about **React, Redux, Node.js, Express.js, MongoDB**
 
