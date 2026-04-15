@@ -26,22 +26,39 @@
 ## 👨‍💻 About Me
 
 ```javascript
+## 👨‍💻 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=const+tomal+%3D+%7B;name%3A+%22Tomal%22%2C;role%3A+%22Full+Stack+Web+Developer%22%2C;location%3A+%22Dhaka%2C+Bangladesh%22%2C;available%3A+true%2C;askMeAbout%3A+%5BReact%2C+Node.js%2C+MongoDB%5D%2C;currentlyLearning%3A+%5BSystem+Design%2C+DevOps%2C+Cloud%5D%2C;motto%3A+%22Build+things+that+matter+%F0%9F%9A%80%22;%7D;" />
+
+</div>
+
+---
+
+```javascript
 const tomal = {
-  name:       "Tomal",
-  location:   "📍 Dhaka, Bangladesh 🇧🇩",
-  role:       "Full Stack Web Developer",
-  email:      "tomal2915@gmail.com",
-  available:  true,
+  name: "Tomal",
+  role: "Full Stack Web Developer",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  available: true,
 
   askMeAbout: [
-    "React", "Redux", "Node.js",
-    "Express.js", "MongoDB"
+    "React",
+    "Redux",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
   ],
 
-  currentlyLearning: ["System Design", "DevOps", "Cloud"],
+  currentlyLearning: [
+    "System Design",
+    "DevOps",
+    "Cloud Computing"
+  ],
 
-  funFact:    "I turn coffee ☕ into clean code 💻",
-  motto:      "Build things that matter 🚀"
+  funFact: "I turn coffee ☕ into clean code 💻",
+  motto: "Build things that matter 🚀"
 };
 ```
 
