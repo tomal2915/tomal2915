@@ -23,27 +23,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```
-const tomal = {
-  name:       "Tomal",
-  location:   "📍 Dhaka, Bangladesh 🇧🇩",
-  role:       "Full Stack Web Developer",
-  email:      "tomal2915@gmail.com",
-  available:  true,
-
-  askMeAbout: [
-    "React", "Redux", "Node.js",
-    "Express.js", "MongoDB"
-  ],
-
-  currentlyLearning: ["System Design", "DevOps", "Cloud"],
-
-  funFact:    "I turn coffee ☕ into clean code 💻",
-  motto:      "Build things that matter 🚀"
-};
-```
 
 ---
 
