@@ -83,13 +83,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tomal2915&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-
-</div>
 
 ---
 
@@ -130,7 +123,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomal2915@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomal2915)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomal2915)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://tomal2915.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://tomal2915.netlify.app/)
 
 </div>
 
