@@ -149,7 +149,7 @@ const tomal = {
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomal2915@gmail.com)
-[![LeetCode](https://shields.io)](https://leetcode.com/u/tomal2915)
+[![LeetCode](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/u/tomal2915)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomal2915)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://tomal2915.netlify.app)
 
